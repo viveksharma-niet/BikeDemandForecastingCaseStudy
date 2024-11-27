@@ -37,18 +37,13 @@ Pandas - version 2.2.2
 NumPy - version 2.0.2
 Matplotlib - version 3.9.2
 Seaborn - version 0.13.2
+sklean - version 1.5.2
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
+This project was created as a case study required for Executive PG Programme in Machine Learning & AI - IIIT, Bangalore. Special thanks to Upgrad for providing valuable resources and tutorials.
 
 
 <!-- Optional -->
